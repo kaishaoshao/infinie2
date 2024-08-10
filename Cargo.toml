@@ -5,6 +5,11 @@ exclude = [
   "tests/fixture/state",
   "tests/fixture/success",
   "dev",
+  "rustlings",
+  "learning-cxx",
+  "exams",
+  "TinyInfiniTensor",
+  "learning-lm-rs"
 ]
 
 [workspace.package]
